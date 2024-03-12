@@ -1,0 +1,7 @@
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\bin\Debug\Task_2_Recursion.exe.config
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\bin\Debug\Task_2_Recursion.exe
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\bin\Debug\Task_2_Recursion.pdb
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\obj\Debug\Task_2_Recursion.csproj.AssemblyReference.cache
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\obj\Debug\Task_2_Recursion.csproj.CoreCompileInputs.cache
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\obj\Debug\Task_2_Recursion.exe
+D:\Теория_и_практика_языка_программирования_C#\РЕШЕНИЕ_ЗАДАЧ\GEEKBRAINS\Task_2_Recursion\Task_2_Recursion\obj\Debug\Task_2_Recursion.pdb
